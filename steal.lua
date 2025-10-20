@@ -3,7 +3,6 @@ SaveTheme = {}
 
 local themes = {
 	index = {'Dark', 'Amethyst', 'MidnightAurora', 'LunaGlass'},
-
 	Amethyst = {
 		['Shadow'] = Color3.fromRGB(24, 24, 31),
 		['Background'] = Color3.fromRGB(29, 28, 38),
@@ -81,9 +80,8 @@ local themes = {
 					['UIStroke'] = Color3.fromRGB(255, 255, 255),
 				}
 			}
-		}
-	},
-
+		},
+	}
 	Dark = {
 		['Shadow'] = Color3.fromRGB(15, 15, 15),
 		['Background'] = Color3.fromRGB(20, 20, 20),
@@ -161,9 +159,8 @@ local themes = {
 					['UIStroke'] = Color3.fromRGB(230, 230, 230),
 				}
 			}
-		}
-	},
-
+		},
+	}
 	MidnightAurora = {
 		['Shadow'] = Color3.fromRGB(10, 10, 15),
 		['Background'] = Color3.fromRGB(16, 18, 24),
@@ -241,9 +238,8 @@ local themes = {
 					['UIStroke'] = Color3.fromRGB(210, 220, 255),
 				}
 			}
-		}
-	},
-
+		},
+	}
 	LunaGlass = {
 		['Shadow'] = Color3.fromRGB(230, 230, 240),
 		['Background'] = Color3.fromRGB(245, 247, 250),
@@ -4896,4 +4892,5 @@ end
 
 
 return Library
+
 
