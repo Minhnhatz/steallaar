@@ -80,8 +80,8 @@ local themes = {
 					['UIStroke'] = Color3.fromRGB(255, 255, 255),
 				}
 			}
-		},
-	}
+		}
+	},
 	Dark = {
 		['Shadow'] = Color3.fromRGB(15, 15, 15),
 		['Background'] = Color3.fromRGB(20, 20, 20),
@@ -4892,5 +4892,6 @@ end
 
 
 return Library
+
 
 
